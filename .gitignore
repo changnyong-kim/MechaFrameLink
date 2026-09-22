@@ -1,0 +1,26 @@
+# Unreal generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.slnx
+
+# User files
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Secrets
+.env
+.env.*
+*.key
+
+# Unreal Assets
+# Diversion 연결 후 정책 확정
+Content/

@@ -24,3 +24,6 @@ Saved/
 # Unreal Assets
 # Diversion 연결 후 정책 확정
 Content/
+
+# Diversion local workspace metadata
+.diversion/

@@ -9,6 +9,9 @@
 3. [격납고 장착과 비교 데이터 흐름](./2026-09-18-hangar-equipment-flow.md)
 4. [게임 시작 시 장비 초기화와 로비 직접 진입](./2026-09-18-equipment-startup-lobby.md)
 5. [실행 가능한 격납고 텍스트 목업](./2026-09-18-hangar-mock-ui.md)
+6. [프런트엔드 캐릭터와 고정 카메라 구도](./2026-09-23-frontend-portrait-camera.md)
+7. [프런트엔드 루트 표시 상태 테스트 함수](./2026-09-23-frontend-root-visibility-toggle.md)
+8. [프런트엔드 UI 표시 테스트 단축키](./2026-09-23-frontend-debug-shortcut.md)
 
 ## 작성 규칙
 

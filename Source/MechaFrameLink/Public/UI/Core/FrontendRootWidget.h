@@ -13,6 +13,10 @@ class MECHAFRAMELINK_API UFrontendRootWidget : public UCommonUserWidget
     GENERATED_BODY()
 
 public:
+    // Explicit C++/Blueprint contract; the Blueprint owns the visual test behavior.
+    UFUNCTION(BlueprintImplementableEvent, Category = "UI|Debug")
+    void DebugToggleFrontendVisibility();
+
     UCommonActivatableWidget* PushMainScreen(TSubclassOf<UCommonActivatableWidget> ScreenClass);
 
 protected:
